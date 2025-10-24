@@ -9,7 +9,7 @@ app.use(express.json());
 // Importar rutas
 const personasRoutes = require("./routes/personas.routes");
 const eventosRoutes = require("./routes/eventos.routes");
-const regisotrsRoutes = require("./routes/registros.routes");
+const registrosRoutes = require("./routes/registros.routes");
 
 // Usar rutas
 app.use("/personas", personasRoutes);
