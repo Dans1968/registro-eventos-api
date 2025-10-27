@@ -67,22 +67,4 @@ Describe cómo funciona el sistema paso a paso.
 4. Todos los datos se almacenan en MySQL.
 
 ## 🖼️ Capturas de pantalla
-
-### 🏠 Página principal - Lista de eventos
-Muestra todos los eventos disponibles con opción para inscribirse.
-
-![Eventos Disponibles](https://github.com/Dans1968/registro-eventos-api/blob/main/frontend/screenshots/eventos.png)
-
----
-
-### 🧍 Registro de personas
-Formulario para registrar nuevos participantes en el sistema.
-
-![Registro de Personas](https://github.com/Dans1968/registro-eventos-api/blob/main/frontend/screenshots/personas.png)
-
----
-
-### 📝 Registro de participación
-Interfaz donde se selecciona una persona y un evento para registrar su asistencia.
-
-![Registro de Participación](https://github.com/Dans1968/registro-eventos-api/blob/main/frontend/screenshots/registros.png)
+-Se encuentran en la carpeta de Fronted ahi una para cada pantalla del la web funcionando
