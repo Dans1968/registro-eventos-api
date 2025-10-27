@@ -63,6 +63,25 @@ Describe cómo funciona el sistema paso a paso.
 
 1. El usuario abre la página principal (**index.html**) para ver los eventos.  
 2. Puede registrar una persona nueva (**personas.html**).  
-3. Luego selecciona un evento y se inscribe (**registros.html**).  
+3. Luego selecciona un evento y se inscribe (**registros.html**).
+
+## 🖼️ Capturas de pantalla
+
+### 🏠 Página principal - Lista de eventos
+Muestra todos los eventos disponibles con opción para inscribirse.
+
+<img width="1366" height="726" alt="image" src="https://github.com/user-attachments/assets/8200314f-61fb-4fb8-87b8-5a980256af00" />
+
+### 🧍 Registro de personas
+Formulario para registrar nuevos participantes en el sistema.
+<img width="1366" height="725" alt="image" src="https://github.com/user-attachments/assets/b68697e3-7995-4aaf-a900-48f89bc09370" />
+
+### 📝 Registro de participación
+Interfaz donde se selecciona una persona y un evento para registrar su asistencia.
+<img width="1366" height="730" alt="image" src="https://github.com/user-attachments/assets/d09dfb8b-8062-4a5a-8c73-0e32256f2149" />
+
+
+
+
 4. Todos los datos se almacenan en MySQL.
 
