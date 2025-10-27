@@ -66,9 +66,3 @@ Describe cómo funciona el sistema paso a paso.
 3. Luego selecciona un evento y se inscribe (**registros.html**).  
 4. Todos los datos se almacenan en MySQL.
 
-
-
-
-
-## 🖥️ Estructura del proyecto
-
